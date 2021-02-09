@@ -1,0 +1,1 @@
+Para la solucion de la actividad 2 se utilizo el lenguaje javascript y se programo una secuencia de condicionales para validar el mes y mostrar a que estacion del año pertenecia
